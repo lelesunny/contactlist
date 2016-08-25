@@ -1,0 +1,19 @@
+{
+  "name": "lele",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "public/index.html",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.4",
+    "express-generator": "^4.13.1",
+    "mongodb": "^2.1.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
